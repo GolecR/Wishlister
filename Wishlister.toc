@@ -1,0 +1,10 @@
+## Interface: 100007
+## X-Min-Interface: 100007
+## Title: Wishlister
+## Author: Ryan Golec
+## Version: 0.0.1
+## SavedVariables: WishlisterDB
+
+embeds.xml
+
+Core.lua
